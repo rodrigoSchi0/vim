@@ -1,6 +1,6 @@
 My vimrc!
 
-#Config
+# Config
 
 Create .vim
 ```
