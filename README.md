@@ -21,4 +21,4 @@ Download Vundle
 $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 
-Lunch `vim` and run `:PluginInstall`
+Launch `vim` and run `:PluginInstall`
